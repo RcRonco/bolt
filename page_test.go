@@ -1,4 +1,4 @@
-package bolt
+package bolt_cms
 
 import (
 	"reflect"

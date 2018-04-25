@@ -1,4 +1,4 @@
-package bolt_test
+package bolt_cms_test
 
 import (
 	"bytes"

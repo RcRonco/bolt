@@ -41,4 +41,4 @@ point to different data or can point to invalid memory which will cause a panic.
 
 
 */
-package bolt
+package bolt_cms

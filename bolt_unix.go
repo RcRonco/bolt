@@ -1,6 +1,6 @@
 // +build !windows,!plan9,!solaris
 
-package bolt
+package bolt_cms
 
 import (
 	"fmt"
