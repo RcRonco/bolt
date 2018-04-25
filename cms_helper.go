@@ -3,7 +3,6 @@ package bolt_cms
 import (
 	"os"
 	"sync"
-	"github.com/boltdb/bolt"
 )
 
 func OpenReadOnly(path string, mode os.FileMode, options *Options) (*DB, error) {
