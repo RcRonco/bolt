@@ -1,4 +1,4 @@
-package cms_bolt
+package bolt_cms
 
 import (
 	"os"
